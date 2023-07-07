@@ -25,7 +25,7 @@ Proyecto en desarrollo para le Desafio Alura - Oracle. Es una aplicación desarr
 
 ## 🔨 Funcionalidades del proyecto
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/loading-12.gif" alt="Upload"/>
+  <img src="https://usagif.com/wp-content/uploads/loading-12.gif" alt="Upload" style="max-width: 10%"/>
 </p>
 
 ## ✔️ Tecnologías utilizadas
